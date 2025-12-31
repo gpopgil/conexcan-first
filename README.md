@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Este documento se utilizará para describir el funcionamiento de la web, utilizando como base la plantilla de Vite.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
