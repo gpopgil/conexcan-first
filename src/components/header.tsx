@@ -1,6 +1,8 @@
 import conexcanLogo from '../assets/svg/logo.svg'
 
-conexcanLogo;
+
+
+
 
 export default function Header() {
 
@@ -10,7 +12,7 @@ export default function Header() {
 
                 <div className="logo-wrapper">
                     <a href="#" target="_blank">
-                        <img src={conexcanLogo} className="logo" alt="Conexcan Logo" />
+                        <img src={conexcanLogo} className="logo-conexcan" alt="Conexcan Logo" />
                     </a>
                 </div>
                 <div className="menu-nav">
