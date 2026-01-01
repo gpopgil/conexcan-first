@@ -1,5 +1,5 @@
-import './App.css'
 import Header from './components/header'
+import './css/App.css'
 
 function App() {
 
@@ -9,7 +9,8 @@ function App() {
     
       <h1>Conexcan Studios</h1>
       <div className="card">
-      </div>
+      </div>  
+      
    
     </>
   )
