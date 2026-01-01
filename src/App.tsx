@@ -6,8 +6,7 @@ function App() {
   return (
     <>
    <Header />
-      <div>
-      </div>
+    
       <h1>Conexcan Studios</h1>
       <div className="card">
       </div>

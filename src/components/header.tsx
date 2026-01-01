@@ -2,22 +2,22 @@ import conexcanLogo from '../assets/svg/logo.svg'
 
 conexcanLogo;
 
-export default function Header(){
+export default function Header() {
 
-    return(
+    return (
         <>
-        <div className="menu-wrapper">
+            <div className="menu-wrapper">
 
-            <div className="logo-wrapper">
-      <a href="https://vite.dev" target="_blank">
-          <img src={conexcanLogo} className="logo" alt="Vite logo" />
-        </a>
+                <div className="logo-wrapper">
+                    <a href="#" target="_blank">
+                        <img src={conexcanLogo} className="logo" alt="Conexcan Logo" />
+                    </a>
+                </div>
+                <div className="menu-nav">
+                   
+                </div>
+
             </div>
-            <div className="menu-nav">
-
-            </div>
-
-        </div>
         </>
 
     );
